@@ -1,0 +1,13 @@
+{
+  "name": "todo-list-mcp",
+  "version": "1.0.0",
+  "description": "MCP Server for Todo List MCP",
+  "scripts": {
+    "start": "python app/mcp_server.py",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "24.x"
+  }
+}
